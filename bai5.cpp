@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+	char c;
+	c='x';
+	cout<<c;
+	return 0;
+}
